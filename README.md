@@ -32,6 +32,7 @@ For more information, please check Tuya Developer Website.
 * 摄像头模块--用于图像记录
 * 小音响扬声器--语音输出（plus功能）
 * 温湿度传感器--测量温度及湿度
+* 压力传感器--测量食物质量
 * 红外传感器--用于识别宠物是否需要猫粮（plus功能）
 
 # 开发计划
